@@ -1,0 +1,3 @@
+[submodule "Metalua"]
+	path = Metalua
+	url = git@github.com:hoelzl/metalua.git
